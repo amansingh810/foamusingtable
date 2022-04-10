@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.headrow{
+    text-align: center;
+}
+
+#submit{
+    background-color: lightyellow;
+}
+#cancel{
+    background-color: salmon;
+}
